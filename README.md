@@ -8,7 +8,7 @@ The purpose of writing this software was to learn more about how Node and React 
 
 # Web Pages
 
-I didn't have a lot of time to decorate the application as much as I wanted because I was focusing on concepts and functionality more and ran out of time.
+**I didn't have a lot of time to decorate the application as much as I wanted because I was focusing on concepts and functionality more and ran out of time.**
 
 ## Landing
 
